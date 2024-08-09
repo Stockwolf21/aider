@@ -4,7 +4,7 @@
 #
 #    pip-compile --output-file=requirements.txt requirements/requirements.in
 #
-aiohappyeyeballs==2.3.4
+aiohappyeyeballs=2.3.4
     # via aiohttp
 aiohttp==3.10.0
     # via litellm
