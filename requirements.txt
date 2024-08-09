@@ -21,7 +21,7 @@ attrs==23.2.0
     #   aiohttp
     #   jsonschema
     #   referencing
-backoff==2.2.1
+backoff=2.2.1
     # via -r requirements/requirements.in
 beautifulsoup4==4.12.3
     # via -r requirements/requirements.in
